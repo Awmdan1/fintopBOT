@@ -32,7 +32,7 @@ Follow these steps to get the Fintopio Automation Tool up and running:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Galkurta/Fintopio-BOT.git
+   git clone https://github.com/Awmdan1/fintopBOT.git
    cd Fintopio-BOT
    ```
 
